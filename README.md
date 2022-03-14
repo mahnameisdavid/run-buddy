@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Puurpose
 A website that offers fitness training services.
